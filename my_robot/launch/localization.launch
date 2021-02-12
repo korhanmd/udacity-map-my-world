@@ -51,8 +51,7 @@
       <!-- Minimum visual inliers to accept loop closure -->
       <param name="Vis/MinInliers" type="string" value="15"/>
 
-      <!-- Set to false to avoid saving data when robot is not moving -->
-      <param name="Mem/NotLinkedNodesKept" type="string" value="false"/>
+      <param name="Mem/IncrementalMemory" type="string" value="false"/>
     </node>
 
     <!-- visualization with rtabmapviz -->
