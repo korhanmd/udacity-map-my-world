@@ -13,6 +13,7 @@ Then, in another terminal write `roslaunch my_robot mapping.launch` to start RTA
 
 There are four packages in the project. They are `my_robot`, `ball_chaser`, `pgm_map_creator`, and `teleop_twist_keyboard` packages are from previous project.
 Added `mapping.launch` to the `my_robot` package. This launch file includes `rtabmap` node for mapping and `rtabmapviz` node for visualization of it.
+Added `teleop.launch` to control robot with teleop keys.
 
 ## Example screenshot from RTAB-Map Database Viewer
 
