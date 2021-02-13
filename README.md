@@ -19,4 +19,4 @@ Added `mapping.launch` to the `my_robot` package. This launch file includes `rta
 Shows generated 2D map and 3D loop closure example.
 [Click](https://drive.google.com/file/d/1UAO8sXR8T7Ka682SmR8dx41yo74su8Zg/view?usp=sharing) to download database file of created map.
 
-![MAP](Screenshot from 2021-02-13 13-38-51.png)
+![MAP](Screenshot.png)
